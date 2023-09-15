@@ -56,9 +56,10 @@
             const seconds = Math.floor((interval % (1000 * 60)) / 1000);
 
             // Format the result as needed
-            const formattedDays = days.toString().padStart(4, '0');
+            const formattedDays = days.toString().padStart(3, '0');
             const formattedHours = hours.toString().padStart(2, '0');
-            const formattedMinutes = Math.floor(minutes / 10);
+            // const formattedMinutes = Math.floor(minutes / 10);
+            const formattedMinutes = minutes.toString().padStart(2, '0');
             const formattedSeconds = seconds.toString().padStart(2, '0');
 
             // Output the formatted result
@@ -76,10 +77,10 @@
             var r = formattedDays[0];
             var r1 = formattedDays[1];
             var r2 = formattedDays[2];
-            var r3 = formattedDays[3];
-            var r4 = formattedHours[0];
-            var r5 = formattedHours[1];
-            var r6 = formattedMinutes;
+            var r3 = formattedHours[0];
+            var r4 = formattedHours[1];
+            var r5 = formattedMinutes[0];
+            var r6 = formattedMinutes[1];
                 // console.log('imgElement',imgElement,r,r1,r2,r3,r4,r5,r6);
                 imgElement.src = images[r];
                 imgElement1.src = images[r1];
