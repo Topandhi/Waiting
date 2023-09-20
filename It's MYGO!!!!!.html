@@ -44,7 +44,7 @@
             currentDateTime.toLocaleString('en-US', { timeZone });
 
             // Define the specific date you want to calculate the interval to
-            const specificDate = new Date('2023-09-27T16:59:00');
+            const specificDate = new Date('2023-09-27T18:59:00');
 
             // Calculate the interval in milliseconds
             const interval = specificDate - currentDateTime;
