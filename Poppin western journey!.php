@@ -2,7 +2,7 @@
     <head>
    </head>
 <body style="background-image: url('My_Heart_in_the_Water.png');background-position: top;background-repeat: repeat;padding:0px;">
-    <div style="display:flex;flex-direction:column;text-align:center;">
+    <div style="display:flex;flex-direction:column;text-align:center;margin-top:100px;">
         <div style="font-size:25px;text-decoration:underline;font-weight:700;">Estimated Date</div>
     </div>
     <div style="display:flex;flex-direction:column;text-align:center;">
