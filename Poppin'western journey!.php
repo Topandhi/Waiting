@@ -2,6 +2,22 @@
     <head>
    </head>
 <body style="background-image: url('My_Heart_in_the_Water.png');background-position: top;background-repeat: repeat;padding:0px;">
+    <div style="display:flex;flex-direction:column;text-align:center;">
+        <div style="font-size:25px;text-decoration:underline;font-weight:700;">Estimated Date</div>
+    </div>
+    <div style="display:flex;flex-direction:column;text-align:center;">
+        <div style="font-size:14px;"><i>YY-mm-dd</i></div>
+    <br>
+    </div>
+    <div style="display:flex;flex-direction:row;justify-content:center;">
+        <divmeter data-height="200px" data-time="2014-01-11T01:12:59.371Z" data-type="static" id="divmeter-1672461300374" class="divmeter divmeter-complete"><img src="https://raw.github.com/dogancelik/divergence-meter/gh-pages/img/2.jpg" style="height: 200px;"><img src="https://raw.github.com/dogancelik/divergence-meter/gh-pages/img/4.jpg" style="height: 200px;"><img src="https://raw.github.com/dogancelik/divergence-meter/gh-pages/img/11.jpg" style="height: 200px;"><img src="https://raw.github.com/dogancelik/divergence-meter/gh-pages/img/0.jpg" style="height: 200px;"><img src="https://raw.github.com/dogancelik/divergence-meter/gh-pages/img/4.jpg" style="height: 200px;"><img src="https://raw.github.com/dogancelik/divergence-meter/gh-pages/img/11.jpg" style="height: 200px;"><img src="https://raw.github.com/dogancelik/divergence-meter/gh-pages/img/0.jpg" style="height: 200px;"><img src="https://raw.github.com/dogancelik/divergence-meter/gh-pages/img/9.jpg" style="height: 200px;"></divmeter>
+    </div>
+    <br>
+    <br>
+    <div style="display:flex;flex-direction:row;justify-content:center;">
+        <div style="font-size:25px;text-decoration:underline;font-weight:700;">Time Gap</div>
+    </div>
+    <br>
     <div style="display:flex;flex-direction:row;justify-content:center;">
         <divmeter data-height="200px" data-time="2014-01-11T01:12:59.371Z" data-type="static" id="divmeter-1672461300374" class="divmeter divmeter-complete"><img id="i0" src="https://raw.github.com/dogancelik/divergence-meter/gh-pages/img/0.jpg" style="height: 200px;"><img id="in" src="https://raw.github.com/dogancelik/divergence-meter/gh-pages/img/11.jpg" style="height: 200px;"><img id="i1" src="https://raw.github.com/dogancelik/divergence-meter/gh-pages/img/0.jpg" style="height: 200px;"><img id="i2" src="https://raw.github.com/dogancelik/divergence-meter/gh-pages/img/0.jpg" style="height: 200px;"><img id="i3" src="https://raw.github.com/dogancelik/divergence-meter/gh-pages/img/0.jpg" style="height: 200px;"><img id="i4" src="https://raw.github.com/dogancelik/divergence-meter/gh-pages/img/0.jpg" style="height: 200px;"><img id="i5" src="https://raw.github.com/dogancelik/divergence-meter/gh-pages/img/0.jpg" style="height: 200px;"><img id="i6" src="https://raw.github.com/dogancelik/divergence-meter/gh-pages/img/0.jpg" style="height: 200px;"></divmeter>
     </div>
