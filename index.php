@@ -1,7 +1,7 @@
 <html>
     <head>
    </head>
-<body style="background-image: url('Our_Current_Location.png');background-position: top;background-repeat: repeat;padding:0px;">
+<body style="background-image: url('arisa_stary.png');background-position: top;background-repeat: repeat;padding:0px;">
     <div style="display:flex;flex-direction:row;justify-content:center;">
         <divmeter data-height="200px" data-time="2014-01-11T01:12:59.371Z" data-type="static" id="divmeter-1672461300374" class="divmeter divmeter-complete"><img id="i0" src="https://raw.github.com/dogancelik/divergence-meter/gh-pages/img/0.jpg" style="height: 200px;"><img id="in" src="https://raw.github.com/dogancelik/divergence-meter/gh-pages/img/11.jpg" style="height: 200px;"><img id="i1" src="https://raw.github.com/dogancelik/divergence-meter/gh-pages/img/0.jpg" style="height: 200px;"><img id="i2" src="https://raw.github.com/dogancelik/divergence-meter/gh-pages/img/0.jpg" style="height: 200px;"><img id="i3" src="https://raw.github.com/dogancelik/divergence-meter/gh-pages/img/0.jpg" style="height: 200px;"><img id="i4" src="https://raw.github.com/dogancelik/divergence-meter/gh-pages/img/0.jpg" style="height: 200px;"><img id="i5" src="https://raw.github.com/dogancelik/divergence-meter/gh-pages/img/0.jpg" style="height: 200px;"><img id="i6" src="https://raw.github.com/dogancelik/divergence-meter/gh-pages/img/0.jpg" style="height: 200px;"></divmeter>
     </div>
@@ -44,7 +44,7 @@
             currentDateTime.toLocaleString('en-US', { timeZone });
 
             // Define the specific date you want to calculate the interval to
-            const specificDate = new Date('2025-01-07T08:00:00');
+            const specificDate = new Date('2025-08-02T08:00:00');
 
             // Calculate the interval in milliseconds
             const interval = specificDate - currentDateTime;
